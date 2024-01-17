@@ -2,7 +2,7 @@
   url:   ""
 
 - title: "Projects"
-  url: "projects"
+  url: "category/projects/"
 
 - default: menu_about
   url:   "about"

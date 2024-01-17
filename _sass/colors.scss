@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+:root {
+    --body-bg:
+    --body-color:
+    --body-link-color: 
+    --card-bg:
+    --link-color: #555;
+    --link-hover-color: #aaa;
+    --white-space: #777;
+    --keyword-color: #c71585;
+    --namespace-color: #ffb000;
+    --class-color: #808;
+    --attributes-color: #008;
+    --error-color: #c00;
+    --error-color2: #fefeec;
+    --contrast-color: #000;
+    --contrast-color2: #555;
+    --contrast-color3: #dee5e7;
+    --contrast-color4: #4e5d62;
+    --custom-number-color: #f696db;
+    --custom-string-color: #800;
+    --operators-color: #157c83;
+    --punctuation-color: #0f6f75;
+    --comments-color: #228b22;
+    --program-output-color: #444;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+    --body-bg: #303C6C;
+    --body-color: #E2E8E4;
+    --body-link-color: #FFCCBB;
+    --card-bg: #212529;
+     }
+   }
