@@ -18,3 +18,7 @@ One idea struck me when I was reading a post made by a restaurant owner. He was 
 
 A few days ago, I was browsing Reddit and came across a mention of a platform for apartment block administration. This platform allows owners to view announcements and pay their “maintenance” bills. In Romania, we pay a “maintenance fee” which includes expenses like garbage collection, water, commonly used electricity for lights and elevators, salaries for the administrator and the cleaning staff, among others. The platform also provides administrative features, allowing administrators to manage each apartment, calculate fees, and even has an automatic system to help with accounting and invoice creation.
 However, this platform may not be suitable for me, as I would need more information on how all the bills are calculated, along with other administrative details about the finances in this department of block administration.
+
+## idea 3 - Short movie platform like youtube but non-profit
+
+I have a friend that is a film directing student. And one thing that he mentioned when we spoke about the problems with financing a production of short films
