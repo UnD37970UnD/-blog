@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Datadump for my thoughts
 keywords: [empty]
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://und37970und.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-domain: "und37970und.github.io/" # the domain name for your site, e.g. example.com
+url: "https://log.notiustin.com/" # the base hostname & protocol for your site, e.g. http://example.com
+domain: "log.notiustin.com/" # the domain name for your site, e.g. example.com
 language: en
 # Supported languages list:
 # en: English
