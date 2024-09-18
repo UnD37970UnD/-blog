@@ -9,7 +9,7 @@ categories: [projects]
 
 ## Why Create This Program?
 
-I want to limit my brother's time on the PC because he can get a little too attached to Minecraft and forgets about his homework and other responsibilities.
+I want to limit my brother's time on the PC because he can get a little too attached to Minecraft and forgets about his homework and other responsibilities. I know that this exist with Microsoft Parental Control but it only works with online windows users; and i have a local user.
 
 ## The ideea
 
