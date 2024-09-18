@@ -22,3 +22,5 @@ However, this platform may not be suitable for me, as I would need more informat
 ## idea 3 - Short movie platform like youtube but non-profit
 
 I have a friend that is a film directing student. And one thing that he mentioned when we spoke about the problems with financing a production of short films
+
+## idea 4 - Clinic pacient management system
