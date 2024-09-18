@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to manage a business???"
+title:  "First experience in work env"
 date:   2024-07-01
 categories: [logs]
 tags: [business]
