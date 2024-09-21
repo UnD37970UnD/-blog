@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "storing here some game ideas"
-date:   2024-01-23
+date:   2024-09-21
 categories: [logs]
 tags: [game-ideas]
 ---
 
 ## Lasts in the sea
 
-![test_image2]({{ site.url }} assets/images/post-screenshot.png)
+![test_image2]({{ site.url }}assets/images/post-screenshot.png)
 
 **Game Mechanics Overview:**
 
