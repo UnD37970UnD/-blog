@@ -8,15 +8,17 @@ tags: [game-ideas]
 
 ## Lasts in the sea
 
-![test_image]({{ site.baseurl }}/assets/images/post-screenshot.png)
-![test_image2]({{ site.url }}/assets/images/post-screenshot.png)
+![test_image2]({{ site.url }} assets/images/post-screenshot.png)
 
+**Game Mechanics Overview:**
 
-Game mechanics:
-    - survival game
-    - little to no crafting
-    - based on trading and looting
-    - can (get) attack(ed) other ships
-    - searching abandoned oil rigs - for looting
-    - upgradable ship
-  
+In Lasts in the Sea, you're immersed in a survival game with a refreshing twist. Rather than focusing heavily on crafting, the game leans into trading, looting, and ship battles to keep the excitement alive.
+
+- 3D but isometric style
+- Survival gameplay: Stay alive while navigating the vast ocean.
+- Minimal crafting: The focus isn't on building but on acquiring through other means.
+- Trade & loot: Gather resources by exploring abandoned oil rigs and trading with other survivors.
+- Ship battles: Defend your ship or attack others to gather their loot.
+- Ship upgrades: Enhance your ship to survive the dangerous waters.
+
+**To be continued...**
