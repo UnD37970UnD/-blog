@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "First experience in work env"
-date:   2024-07-01
+title: "First experience in work env"
+date: 2024-07-01
 categories: [logs]
 tags: [business]
 ---
 
 ## My Little Experience as a Web Dev (WordPress Designer... Don't Laugh)
+
+### And what I've learned working on a startup web agency
 
 My journey as a web developer, or more accurately, a WordPress designer, has raised a few questions. Here are some thoughts based on my experiences working with my boss and other clients:
 

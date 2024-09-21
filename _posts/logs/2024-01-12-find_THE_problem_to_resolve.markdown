@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "find THE problem to resolve"
-date:   2024-01-23
+title: "find THE problem to resolve"
+date: 2024-01-23
 categories: [logs]
 tags: [project-ideas]
 ---
@@ -14,7 +14,7 @@ One idea struck me when I was reading a post made by a restaurant owner. He was 
 
 ## idea 2 - TBD
 
-*pref.*  This is more a solution, and not a problem; but i can still see the problem for home owners with multiple "assets"
+_pref._ This is more a solution, and not a problem; but i can still see the problem for home owners with multiple "assets"
 
 A few days ago, I was browsing Reddit and came across a mention of a platform for apartment block administration. This platform allows owners to view announcements and pay their “maintenance” bills. In Romania, we pay a “maintenance fee” which includes expenses like garbage collection, water, commonly used electricity for lights and elevators, salaries for the administrator and the cleaning staff, among others. The platform also provides administrative features, allowing administrators to manage each apartment, calculate fees, and even has an automatic system to help with accounting and invoice creation.
 However, this platform may not be suitable for me, as I would need more information on how all the bills are calculated, along with other administrative details about the finances in this department of block administration.
@@ -23,4 +23,20 @@ However, this platform may not be suitable for me, as I would need more informat
 
 I have a friend that is a film directing student. And one thing that he mentioned when we spoke about the problems with financing a production of short films
 
-## idea 4 - Clinic patient management system
+## idea 4 - Clinic resources management system
+
+This will be a system that will help the clinic to manage the resources and the appointments.
+I am working on developing this idea through a "academy" program by [Dvloper.io](https://dvloper.io/), and I will post more about it in the future.
+
+## idea 5 - NGO for stray cats and dogs
+
+_pref._ This idea came to life when I saw a stray cat struggling to find warmth during a freezing winter outside my apartment building.
+
+The goal is to create a non-profit organization focused on helping stray cats and dogs by providing them with cozy shelters during the cold months. Here’s what the plan includes:
+
+- Affordable Production: Keeping costs low so we can create as many shelters as possible.
+- Open Source Design: Making the designs available for everyone, so anyone can build these shelters and help animals in their community;
+- Easy Setup and Maintenance: The shelters should be simple to install and maintain, making it accessible for everyone;
+- Weather-Resistant Features: Using materials that can withstand the elements—heat-resistant and water-resistant; also using recycled materials;
+- Connections with Local Vets: Partnering with local veterinarians to provide discounted services for the animals we help;
+- Donation Management System: Setting up an easy way for people to donate food and other supplies to support our furry friends;

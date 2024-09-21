@@ -9,7 +9,7 @@ url: "https://log.notiustin.com/" # the base hostname & protocol for your site, 
 domain: "log.notiustin.com/" # the domain name for your site, e.g. example.com
 language: en
 
-analytics:   G-DWHVP9XM54
+analytics:  
 
 paginate: 25
 paginate_path: "/page:num/"
