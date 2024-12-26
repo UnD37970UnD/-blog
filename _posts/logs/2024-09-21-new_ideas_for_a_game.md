@@ -1,13 +1,23 @@
 ---
 layout: post
+<<<<<<< HEAD
 title: "storing here some game ideas"
 date: 2024-09-21
+=======
+title:  "storing here some game ideas"
+date:   2024-09-21
+>>>>>>> 67ed03c80184b817b7478a38a81fbec44aeef8e5
 categories: [logs]
 tags: [game-ideas]
 ---
 
 ## Lasts in the sea
 
+<<<<<<< HEAD
+=======
+![test_image2]({{ site.url }}assets/images/post-screenshot.png)
+
+>>>>>>> 67ed03c80184b817b7478a38a81fbec44aeef8e5
 **Game Mechanics Overview:**
 
 In Lasts in the Sea, you're immersed in a survival game with a refreshing twist. Rather than focusing heavily on crafting, the game leans into trading, looting, and ship battles to keep the excitement alive.
