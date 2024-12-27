@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Time Tracking and Limiting Program for Parental Control"
-date:   2024-09-18
+title: "Time Tracking&Limiting Program 4 Parents"
+date: 2024-09-18
 last_modified_at: 2024-09-18
 categories: [projects]
-
 ---
 
 ## Why Create This Program?
